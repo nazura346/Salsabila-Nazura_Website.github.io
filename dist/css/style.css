@@ -110,7 +110,7 @@ h1, h2 {
 
 @keyframes glowing {
     0%   { text-shadow: 0 0 4px rgba(233, 179, 210, 0.973); }
-    0%  { text-shadow: 0 0 10px rgba(233, 229, 6, 0.973), 0 0 20px rgba(233, 179, 210, 0.973); }
+    50%  { text-shadow: 0 0 15px rgba(255, 105, 180, 1), 0 0 30px rgba(233, 179, 210, 0.973); }
     100% { text-shadow: 0 0 4px rgba(233, 179, 210, 0.973); }
 }
 /* Glow Animation */
